@@ -1,0 +1,1 @@
+INSERT INTO `train` (`id`, `start_time`, `finsh_time`, `time`, `from_site`, `to_site`, `speed`, `classk`, `number`) VALUES ('1', '12:19 Õ', '22:15 ã', '10:14', 'ÇÓíæØ', 'ÇáŞÇåÑÉ', '100ßã/ÇáÓÇÚÉ ', 'ãßíİ', '5')

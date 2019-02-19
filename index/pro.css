@@ -1,0 +1,381 @@
+/*reserve page*/
+body
+{
+    background-color: #333;
+}
+.container{
+
+    top: -330px;
+    left: 450px;
+    width: 200px;
+    position: absolute;
+    opacity: .5;
+    text-align: center;
+    background-color: white;
+    border: 2px black;
+    margin: 10px;
+    padding: 15px;
+}
+.inp1 input
+{
+    left: -800px;
+    position: relative;
+    opacity: .3;
+    margin-top: 15px;
+    padding: 8px;
+    width: 250px;
+    border-radius: 3px;
+    border-color: black;
+    line-height: 1.5em; 
+}
+.inp2 input
+{
+    
+    right: -900px;
+    position: relative;
+    opacity: .3;
+    margin-top: 15px;
+    padding: 8px;
+    width: 250px;
+    border-radius: 3px;
+    border-color: black;
+    line-height: 1.5em; 
+}
+.inp3  input
+{
+    left: -800px;
+    position: relative;
+    opacity: .3;
+    margin-top: 15px;
+    padding: 8px;
+    width: 250px;
+    border-radius: 3px;
+    border-color: black;
+    line-height: 1.5em; 
+}
+.inp4 input
+{
+    
+    right: -900px;
+    position: relative;
+    opacity: .3;
+    margin-top: 15px;
+    padding: 8px;
+    width: 250px;
+    border-radius: 3px;
+    border-color: black;
+    line-height: 1.5em; 
+}
+.inp5 select
+{
+    left: -800px;
+    position: relative;
+    opacity: .3;
+    margin-top: 15px;
+    padding: 8px;
+    width: 270px;
+    border: 2px solid;
+    border-radius: 3px;
+    border-color: black;
+    line-height: 1.5em; 
+}
+.inp6 input
+{
+    right: -900px;
+    position: relative;
+    opacity: .3;
+    margin-top: 15px;
+    padding: 8px;
+    width: 250px;
+    border-radius: 3px;
+    border-color: black;
+    line-height: 1.5em; 
+}
+.container .btn
+{
+    left: -800px;
+    position: relative;
+    margin-top: 20px;
+    opacity: .3; 
+    color: black;
+    background-color: darkorange;
+    padding: 10px 20px;
+    border: 2px solid black;
+    width: 150px;
+    line-height: 1.5em; 
+}
+.inp input{
+    margin-top:20px;
+    width: 280px;
+    height: 25px;
+    padding: 4px 6px;
+
+}
+
+
+/*ticket page*/
+.container-ticket
+{
+    top: -330px;
+    left: 200px;
+    width: 1000px;
+    font-size: 25px;
+    position: absolute;
+    opacity: .5;
+    text-align: center;
+    background-color: white;
+    border: 2px black;
+    margin: 10px auto;
+    padding: 15px;
+    color:black;
+}
+.container-ticket table
+{
+    left: -1400px;
+    position: relative;
+    opacity: .3;
+    margin-top: 15px;
+    padding: 5px;
+    border-radius: 3px; 
+    border: 2px solid darkorange;
+}
+.container-ticket td
+{
+    padding: 10px;
+    border: none;
+}
+.container-ticket h2
+{
+    display: none;
+    opacity: 1;
+    text-transform: capitalize;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+/*cancel page*/
+.container-cancel{
+    padding: 50px;
+    height: 150px;
+    top: -400px;
+    left: 450px;
+    width: 400px;
+    font-size: 25px;
+    position: absolute;
+    opacity: .5;
+    text-align: center;
+    background-color: white;
+    border: 2px black;
+    margin: 10px auto;
+    color:black;
+}
+
+.container-cancel .btn
+{
+    left: -1000px;
+    position: relative;
+    margin-top: 20px;
+    opacity: .3; 
+    color: black;
+    background-color: darkorange;
+    padding: 10px 20px;
+    border: 2px solid black;
+    width: 150px;
+    line-height: 1.5em; 
+}
+.inp1-cancel input
+{
+    left: -1000px;
+    position: relative;
+    opacity: .3;
+    margin-top: 15px;
+    padding: 8px;
+    width: 250px;
+    border-radius: 3px;
+    border-color: black;
+    line-height: 1.5em; 
+}
+.inp2-cancel input
+{    
+    right: -1000px;
+    position: relative;
+    opacity: .3;
+    margin-top: 15px;
+    padding: 8px;
+    width: 250px;
+    border-radius: 3px;
+    border-color: black;
+    line-height: 1.5em; 
+}
+/*head page*/
+.head
+{
+    color:white;
+    background-color:darkorange;
+    width:auto;
+    margin:0px 10px 0px 10px;
+    padding:10px 30px 10px 50px;
+    border:0;
+    font-weight:bold;
+}
+/*index page*/
+
+.container-index
+{
+    padding:40px;
+    height: 150px;
+    top: -400px;
+    left: 450px;
+    width: 400px;
+    font-size: 25px;
+    position: absolute;
+    opacity: .5;
+    text-align: center;
+    background-color: white;
+    border: 2px black;
+    margin: 20px auto;
+    margin-top: 50px;
+    color:black;
+}
+.inp5-index select
+{
+    left: -900px;
+    position: relative;
+    opacity: .3;
+    margin-top: 15px;
+    padding: 8px;
+    width: 270px;
+    border: 2px solid;
+    border-radius: 3px;
+    border-color: black;
+    line-height: 1.5em; 
+}
+.inp6-index select
+{
+    right: -900px;
+    position: relative;
+    opacity: .3;
+    margin-top: 15px;
+    padding: 8px;
+    width: 270px;
+    border: 2px solid;
+    border-radius: 3px;
+    border-color: black;
+    line-height: 1.5em; 
+}
+.inp7-index select
+{
+    left: -900px;
+    position: relative;
+    opacity: .3;
+    margin-top: 15px;
+    padding: 8px;
+    width: 270px;
+    border: 2px solid;
+    border-radius: 3px;
+    border-color: black;
+    line-height: 1.5em; 
+}
+.container-index .btn
+{
+    left: -900px;
+    position: relative;
+    margin-top: 10px;
+    opacity: .3; 
+    color: black;
+    background-color: darkorange;
+    padding: 10px 20px;
+    border: 2px solid black;
+    width: 150px;
+    line-height: 1.5em; 
+}
+
+input[type=submit]
+{
+background-color: DodgerBlue;
+color: #fff;
+cursor: pointer;
+width: 60%;
+}
+select
+{
+padding: 10px;
+border: 1px solid transparent;
+font-size: 16px;
+width: 60%;
+height:40px;
+background-color: #f1f1f1;
+}
+    /*details page*/
+    
+.container-detail
+{
+    padding:10px;
+    height: 150px;
+    top: -400px;
+    left: 120px;
+    width: 400px;
+    font-size: 25px;
+    position: absolute;
+    opacity: .5;
+    text-align: center;
+    background-color: white;
+    border: 2px black;
+    margin: 10px auto;
+    margin-top: 50px;
+    color:black;
+
+}
+.header-detail
+{
+    margin-left: 100;
+    height: 50px;
+    align-content: center;
+    padding-top: 10px;
+    color: black;
+    margin-top: 10px;
+    overflow: hidden;
+}
+
+.container-detail table
+{
+
+    text-align: center;
+    width: 1000px;
+    left: -1400px;
+    position: relative;
+    margin-left: 50px;
+    opacity: .3;
+    margin-top: 15px;
+    padding: 5px;
+    border-radius: 3px; 
+    border: 2px solid darkorange;
+}
+.container-detail td
+{
+    
+    padding: 10px 10px;
+    border: 2px solid black;
+}
+/*.mycon-detail
+{
+    /* position: absolute;
+    top:0px ;
+    left:0px; */
+   /* background-color:blue;
+    color:white;
+    font-size: 30px;
+    visibility:hidden;
+    margin: 20px 20px 30px 10px;
+    width:auto;
+}*/
+.home-detail
+{
+    margin-top: 20px;
+    font-size:30px;
+    background-color:darkorange;
+    color:white;
+    text-align:center;
+    margin-left:50px;
+
+}
